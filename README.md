@@ -6,7 +6,7 @@ I decided to make one myself. This utility is compatible with and has been teste
 
 References:
 * Read the **license** [here](https://github.com/Coal0/Utilities/blob/master/LICENSE)<br />
-* Play around with the **demo** [here](https://github.com/Coal0/Utilities/blob/master/tkinter_autocomplete/demo.py)
+* Play around with the **demo** [here](https://github.com/RajvirSingh1313/Tkinter_Autocomplete_DropBox/blob/master/demo.py)
 
 ### Structure
 
